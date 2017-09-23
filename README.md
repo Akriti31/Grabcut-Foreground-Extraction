@@ -6,6 +6,7 @@
 <p>GrabCut algorithm was designed by Carsten Rother, Vladimir Kolmogorov & Andrew Blake from Microsoft Research Cambridge, UK. in their paper, "GrabCut": interactive foreground extraction using iterated graph cuts . An algorithm was needed for foreground extraction with minimal user interaction, and the result was GrabCut.
 </p>
 <h3>Orignal Image</h3>
-![alt text](https://github.com/Akriti31/Grabcut-Foreground-Extraction/blob/master/result.png)
+<p>![alt text](https://github.com/Akriti31/Grabcut-Foreground-Extraction/blob/master/result.png)
+</p>
 <h3>Result</h3>
 ![alt text](https://github.com/Akriti31/Grabcut-Foreground-Extraction/blob/master/result.png)
